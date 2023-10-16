@@ -1,0 +1,5 @@
+{
+    "product": "Sản phẩm",
+    "price":"Giá tiền",
+    "description":"Mô tả về {{ framework }}"
+}

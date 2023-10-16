@@ -1,0 +1,5 @@
+{
+    "Welcome to React": "Chào mừng với i18n-react",
+    "title": "Đợi 5 phút để kết nối tới {{framework}}",
+    "intro": "Đợi để bắt đầu, Bấm để thoát"
+}

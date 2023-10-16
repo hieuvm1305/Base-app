@@ -1,0 +1,5 @@
+{
+    "product": "Product",
+    "price":"Price",
+    "description":"description {{ framework }}"
+}

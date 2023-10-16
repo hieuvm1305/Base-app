@@ -1,0 +1,5 @@
+{
+    "Welcome to React": "Welcome to React and react-i18next",
+    "title": "Welcome to {{framework}}",
+    "intro": "To get started, edit <1><0></0></1> and save to reload."
+}
